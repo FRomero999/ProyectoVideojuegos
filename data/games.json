@@ -1,0 +1,72 @@
+[
+  {
+    "id": "zelda-oot-remake",
+    "ranking": 1,
+    "categoria": "Action-Adventure",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg",
+    "alt": "Cover art for The Legend of Zelda: Ocarina of Time Remake",
+    "title": "The Legend of Zelda: Ocarina of Time Remake",
+    "description": "Nintendo's Switch 2 rebuild of the 1998 adventure, out on 5 November 2026. The same dungeon crawl through Hyrule, with rebuilt scenes and a control scheme made for current hardware.",
+    "metacritic": 98
+  },
+  {
+    "id": "wow-forever",
+    "ranking": 2,
+    "categoria": "MMORPG",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png",
+    "alt": "Cover art for World of Warcraft: Forever",
+    "title": "World of Warcraft: Forever",
+    "description": "Blizzard's permanent mode for <em>World of Warcraft</em>, launched on 4 November 2026. Horizontal progression, new race and class combinations, and more than a thousand new quests.",
+    "metacritic": 91
+  },
+  {
+    "id": "godzilla-melee",
+    "ranking": 3,
+    "categoria": "Fighting",
+    "image": "https://www.metacritic.com/a/img/resize/8a3de3e2202d5a1a505531769baecf0c4180d135/catalog/provider/7/2/7-1790868491.jpg?auto=webp&fit=contain&height=960&quality=70",
+    "alt": "Cover art for Godzilla: Destroy All Monsters Melee Remastered",
+    "title": "Godzilla: Destroy All Monsters Melee Remastered",
+    "description": "Pipeworks and Digital Eclipse rebuilt the 2002 kaiju brawler in Unreal Engine 5. Released on 3 November 2026 with online matches, dynamic weather and a roster of twelve monsters.",
+    "metacritic": 90
+  },
+  {
+    "id": "casualties-unknown",
+    "ranking": 4,
+    "categoria": "Tactical Shooter",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990920/header.jpg",
+    "alt": "Cover art for Casualties: Unknown",
+    "title": "Casualties: Unknown",
+    "description": "Orsoniks' squad game, released on 9 November 2026. Early player reviews on Steam sit near 98 percent positive across the first thousand ratings.",
+    "metacritic": 76
+  },
+  {
+    "id": "aviassembly",
+    "ranking": 5,
+    "categoria": "Simulation",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2660460/header.jpg",
+    "alt": "Cover art for Aviassembly",
+    "title": "Aviassembly",
+    "description": "A plane-building sim released on 12 November 2026. About 96 percent of the first ten thousand Steam reviews recommend it.",
+    "metacritic": 87
+  },
+  {
+    "id": "elden-ring",
+    "ranking": 6,
+    "categoria": "RPG",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "alt": "Cover art for Elden Ring",
+    "title": "Elden Ring",
+    "description": "FromSoftware's open-world action RPG created in collaboration with George R. R. Martin. Explore the Lands Between, defeat demigods, and uncover the mysteries of the Elden Ring.",
+    "metacritic": 98
+  },
+  {
+    "id": "baldurs-gate-3",
+    "ranking": 7,
+    "categoria": "RPG",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "alt": "Cover art for Baldur's Gate 3",
+    "title": "Baldur's Gate 3",
+    "description": "Larian Studios' story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship, betrayal, survival, and absolute power.",
+    "metacritic": 76
+  }
+]

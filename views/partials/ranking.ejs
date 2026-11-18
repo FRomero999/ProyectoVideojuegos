@@ -1,0 +1,20 @@
+  <!-- Ranking semanal: lanzamientos destacados de noviembre de 2026 -->
+  <section class="ranking">
+    <h2>November 2026 Standouts</h2>
+    <p>Three releases already out this month, ranked from critic reviews and player scores.</p>    
+    <div class="ranking-inner">      
+      
+        <% games.forEach(g => { %>
+      
+        <a href="/game/<%= g.id %>">
+          <div class="ranking-inner-game <%= (g.metacritic>95)?'top':'' %>">
+            <img src="<%= g.image %>"
+              alt="<%= g.alt %>">
+            <h5><%= g.title %> </h5>
+          </div>
+        </a>       
+      
+      <% }) %>
+
+    </div>
+  </section>
